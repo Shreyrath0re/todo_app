@@ -12,10 +12,7 @@ A **lightweight and user-friendly To-Do List application** that helps users orga
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
 - **Framework (if used):** React.js  
-- **Data Storage:** Local Storage  
-
-## 📸 Screenshots  
-*(Add images of the app UI here, if available)*  
+- **Data Storage:** Local Storage   
 
 ## 📦 Installation  
 1. Clone the repository:  

@@ -1,16 +1,23 @@
-# flutter_application_1
+# 📝 To-Do App  
 
-A new Flutter project.
+A **lightweight and user-friendly To-Do List application** that helps users organize their daily tasks efficiently.  
 
-## Getting Started
+## 🚀 Features  
+- Add, edit, and delete tasks  
+- Mark tasks as completed  
+- Task prioritization for better productivity  
+- Data persistence using **Local Storage**  
+- Simple and intuitive UI for seamless user experience  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Framework (if used):** React.js  
+- **Data Storage:** Local Storage  
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots  
+*(Add images of the app UI here, if available)*  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Installation  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/Shreyrath0re/todo_app.git
